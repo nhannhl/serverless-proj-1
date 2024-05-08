@@ -1,0 +1,8 @@
+be/delete-contact/node_modules
+be/delete-contact/package-lock.json
+be/get-contact/node_modules
+be/get-contact/package-lock.json
+be/store-contact/node_modules
+be/store-contact/package-lock.json
+be/update-contact/node_modules
+be/update-contact/package-lock.json
